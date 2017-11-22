@@ -1,7 +1,7 @@
 
 Code for video tutorial
 
-Title: Flutter 8 - Extending Classes
+Title: Flutter 9 - Extending Classes
 Published: 11/22/2017 1:03:00 PM
 Link: https://youtu.be/HWz1j7atlgY
 
